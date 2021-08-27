@@ -15,5 +15,5 @@ MonoBehaviour:
   isPlaying: 1
   ForwardSpeed: 45
   SideSpeed: 10
-  sensitivity: 3
+  sensitivity: 7
   FlySpeed: 30

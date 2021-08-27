@@ -16,6 +16,8 @@ public class CoinScript : MonoBehaviour
     [SerializeField] private GameObject textDot_1;
     [SerializeField] private GameObject textDot_2;
     [SerializeField] private PlayerControl playerControl;
+    [SerializeField] private RectTransform coinRect;
+
 
     public GameObject CollectButton { get => collectButton; set => collectButton = value; }
 
@@ -35,7 +37,7 @@ public class CoinScript : MonoBehaviour
         {
             GameObject obj = Instantiate(coinPrefab, transform);
             obj.GetComponent<RectTransform>().anchoredPosition = new Vector2(Random.Range(-200, 200), Random.Range(-200, 200));
-            obj.GetComponent<RectTransform>().DOAnchorPos(new Vector2(300, 900), 0.5f).SetDelay(Random.Range(0.5f, 0.75f));
+            obj.transform.DOMove(coinRect.transform.position, 0.5f).SetDelay(Random.Range(0.5f, 0.75f));
             obj.GetComponent<RectTransform>().DOScale(new Vector2(0.5f, 0.5f), 0.5f).SetDelay(Random.Range(0.5f, 0.75f));
             Destroy(obj, 2);
         }

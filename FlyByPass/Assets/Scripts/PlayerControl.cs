@@ -153,7 +153,7 @@ public class PlayerControl : MonoBehaviour
         {
             dist = Vector3.Distance(transform.position, finishLinePos);
             dist2 = ((805.5742f - dist) * 9) / 10;
-            barTriangle.GetComponent<RectTransform>().anchoredPosition = new Vector2(-360 + (dist2), 780);
+            barTriangle.GetComponent<RectTransform>().anchoredPosition = new Vector2((dist2)-370, 60);
         }
     }
 
