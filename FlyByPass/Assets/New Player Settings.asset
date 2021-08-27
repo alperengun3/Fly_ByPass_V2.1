@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74315d56c06cb904895eff99077e0732, type: 3}
+  m_Name: New Player Settings
+  m_EditorClassIdentifier: 
+  isPlaying: 1
+  ForwardSpeed: 45
+  SideSpeed: 10
+  sensitivity: 3
+  FlySpeed: 30

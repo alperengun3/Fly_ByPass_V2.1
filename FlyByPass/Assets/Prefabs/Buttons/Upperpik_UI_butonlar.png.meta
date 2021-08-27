@@ -1,0 +1,1076 @@
+fileFormatVersion: 2
+guid: 554bfbe70c84a7046b85a7b4b08a1210
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8776488524912094740
+    second: Upperpik_UI_butonlar_0
+  - first:
+      213: -1445966963320869657
+    second: Upperpik_UI_butonlar_1
+  - first:
+      213: -7657180079710434608
+    second: Upperpik_UI_butonlar_2
+  - first:
+      213: 1786873897067773541
+    second: Upperpik_UI_butonlar_3
+  - first:
+      213: 7169984990631069498
+    second: Upperpik_UI_butonlar_4
+  - first:
+      213: -5705738102342653079
+    second: Upperpik_UI_butonlar_5
+  - first:
+      213: 269275003706586096
+    second: Upperpik_UI_butonlar_6
+  - first:
+      213: -3534078446215672544
+    second: Upperpik_UI_butonlar_7
+  - first:
+      213: -8652179281342395350
+    second: Upperpik_UI_butonlar_8
+  - first:
+      213: -9001741526423108311
+    second: Upperpik_UI_butonlar_9
+  - first:
+      213: -3402788085616048232
+    second: Upperpik_UI_butonlar_10
+  - first:
+      213: -8444971395184203240
+    second: Upperpik_UI_butonlar_11
+  - first:
+      213: -6346237986899278093
+    second: Upperpik_UI_butonlar_12
+  - first:
+      213: -9218969531719729879
+    second: Upperpik_UI_butonlar_13
+  - first:
+      213: -6890611804071219267
+    second: Upperpik_UI_butonlar_14
+  - first:
+      213: 928019988582275555
+    second: Upperpik_UI_butonlar_15
+  - first:
+      213: -4065920229701285694
+    second: Upperpik_UI_butonlar_16
+  - first:
+      213: -6326805001503380923
+    second: Upperpik_UI_butonlar_17
+  - first:
+      213: -3005751019968003623
+    second: Upperpik_UI_butonlar_18
+  - first:
+      213: 6671012744272409892
+    second: Upperpik_UI_butonlar_19
+  - first:
+      213: 353537394367281259
+    second: Upperpik_UI_butonlar_20
+  - first:
+      213: 7987465288279499131
+    second: Upperpik_UI_butonlar_21
+  - first:
+      213: 8495191209162792167
+    second: Upperpik_UI_butonlar_22
+  - first:
+      213: -5844971984035752793
+    second: Upperpik_UI_butonlar_23
+  - first:
+      213: 3978331312730836748
+    second: Upperpik_UI_butonlar_24
+  - first:
+      213: 5283244907835324850
+    second: Upperpik_UI_butonlar_25
+  - first:
+      213: -5995402711503421645
+    second: Upperpik_UI_butonlar_26
+  - first:
+      213: 6326166528716953844
+    second: Upperpik_UI_butonlar_27
+  - first:
+      213: -4138904790249104913
+    second: Upperpik_UI_butonlar_28
+  - first:
+      213: -2484659432707668546
+    second: Upperpik_UI_butonlar_29
+  - first:
+      213: 3372269545581803439
+    second: Upperpik_UI_butonlar_30
+  - first:
+      213: 5853974209078648668
+    second: Upperpik_UI_butonlar_31
+  - first:
+      213: 1926807862328085498
+    second: Upperpik_UI_butonlar_32
+  - first:
+      213: 4898563672770841088
+    second: Upperpik_UI_butonlar_33
+  - first:
+      213: -8691953228318329749
+    second: Upperpik_UI_butonlar_34
+  - first:
+      213: 3832174297681012666
+    second: Upperpik_UI_butonlar_35
+  - first:
+      213: -3041907777858566053
+    second: Upperpik_UI_butonlar_36
+  - first:
+      213: -4371207497417131655
+    second: Upperpik_UI_butonlar_37
+  - first:
+      213: 1879406557931486450
+    second: Upperpik_UI_butonlar_38
+  - first:
+      213: -2461951261959073806
+    second: Upperpik_UI_butonlar_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_0
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2572
+        width: 202
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e6da640d95cc970800000000000000
+      internalID: 8776488524912094740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_1
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2572
+        width: 385
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec2f4a35b4eeebe0800000000000000
+      internalID: -1445966963320869657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_2
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2572
+        width: 487
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da89a7794b3cb590800000000000000
+      internalID: -7657180079710434608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_3
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2564
+        width: 432
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e742597504cc810800000000000000
+      internalID: 1786873897067773541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2348
+        width: 202
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37827b5c57e08360800000000000000
+      internalID: 7169984990631069498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2348
+        width: 385
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b647c1d6521d0b0800000000000000
+      internalID: -5705738102342653079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_6
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2348
+        width: 487
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3b2de6038acb300800000000000000
+      internalID: 269275003706586096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_7
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2336
+        width: 432
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d43f4a06e64fec0800000000000000
+      internalID: -3534078446215672544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2112
+        width: 202
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c879ae8c84de780800000000000000
+      internalID: -8652179281342395350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_9
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2112
+        width: 385
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9250ba566c3631380800000000000000
+      internalID: -9001741526423108311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_10
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2112
+        width: 487
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8978ceec34ed6c0d0800000000000000
+      internalID: -3402788085616048232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_11
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2108
+        width: 432
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ae5bb624f6dca80800000000000000
+      internalID: -8444971395184203240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_12
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1888
+        width: 202
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f647cabc22ade7a0800000000000000
+      internalID: -6346237986899278093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1888
+        width: 385
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d32ba1e04af0080800000000000000
+      internalID: -9218969531719729879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_14
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1888
+        width: 487
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfa83d7211af50a0800000000000000
+      internalID: -6890611804071219267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_15
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1880
+        width: 432
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e998e3434df0ec00800000000000000
+      internalID: 928019988582275555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_16
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1660
+        width: 202
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8849fd713f297c0800000000000000
+      internalID: -4065920229701285694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_17
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1660
+        width: 385
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ae93a3f5ca238a0800000000000000
+      internalID: -6326805001503380923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_18
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1660
+        width: 487
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d10a8b5f5d6946d0800000000000000
+      internalID: -3005751019968003623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_19
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1652
+        width: 432
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425f5721fb2349c50800000000000000
+      internalID: 6671012744272409892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1107
+        width: 242
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b683416136408e400800000000000000
+      internalID: 353537394367281259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1107
+        width: 348
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71a9ab3c5d29de60800000000000000
+      internalID: 7987465288279499131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_22
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1107
+        width: 504
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec5b21356bf4e570800000000000000
+      internalID: 8495191209162792167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_23
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1107
+        width: 616
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a45071d2fc72eea0800000000000000
+      internalID: -5844971984035752793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 837
+        width: 242
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f8226304fd53730800000000000000
+      internalID: 3978331312730836748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 837
+        width: 348
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b97ae8704bd15940800000000000000
+      internalID: 5283244907835324850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_26
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 837
+        width: 504
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fbc67bffc0ccca0800000000000000
+      internalID: -5995402711503421645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_27
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 837
+        width: 616
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8d32eb0fe0bc750800000000000000
+      internalID: 6326166528716953844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 569
+        width: 242
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe91a0aa508af86c0800000000000000
+      internalID: -4138904790249104913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 569
+        width: 347
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5c2a50967b48dd0800000000000000
+      internalID: -2484659432707668546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_30
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 569
+        width: 505
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7754fd845bcce20800000000000000
+      internalID: 3372269545581803439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_31
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 569
+        width: 616
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f5e68078e7d3150800000000000000
+      internalID: 5853974209078648668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 242
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbce78ca856dba10800000000000000
+      internalID: 1926807862328085498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 299
+        width: 348
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a8329e4b13bf340800000000000000
+      internalID: 4898563672770841088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_34
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 302
+        width: 504
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64b6cd379aff5780800000000000000
+      internalID: -8691953228318329749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_35
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 299
+        width: 616
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7a8a2583e9e2530800000000000000
+      internalID: 3832174297681012666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 242
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b580e352ef8f8c5d0800000000000000
+      internalID: -3041907777858566053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 347
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9797de4d0f95653c0800000000000000
+      internalID: -4371207497417131655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_38
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 28
+        width: 504
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcbb029e4ef41a10800000000000000
+      internalID: 1879406557931486450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upperpik_UI_butonlar_39
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 29
+        width: 616
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffca980f5465ddd0800000000000000
+      internalID: -2461951261959073806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
